@@ -1,5 +1,5 @@
-<div>
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=300&section=header&text=Good%20to%20see%20you%20👋&fontSize=70)
+# <div>
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=250&section=header&text=Hi,%20My%20name%20is%20Yoojin%20!&fontSize=70)
 </div>
 
 &nbsp;
