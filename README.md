@@ -21,5 +21,15 @@
 </br>
 </br>
 
-![ysohn06's Stats](https://github-readme-stats.vercel.app/api?username=ysohn06&show_icons=true&theme=tokyonight&title_color=6A0DAD&icon_color=6A0DAD&hide_border=true&bg_color=1a1a1a)
 
+&nbsp;
+
+## 📊 My GitHub Stats
+![ysohn06's Stats](https://github-readme-stats.vercel.app/api?username=ysohn06&show_icons=true&theme=tokyonight&title_color=6A0DAD&icon_color=6A0DAD&text_color=ffffff&bg_color=1a1a1a&hide_border=true)
+
+---
+
+### 📫 Connect with me
+<a href="mailto:ysohn06@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-ysohn06@gmail.com-6A0DAD?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
