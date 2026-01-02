@@ -4,10 +4,10 @@
 
 &nbsp;
 
-## 👀 About Me
-* 🚀 I'm currently working on **building my identity as a Backend Developer**.
-* 🌱 I am learning **Python**, **Git**, and **Linux** at **OZ Coding School**.
-* 💬 Ask me about **how I finally figured out my README!**
+## About Me
+* 🚀 I'm currently working on building my identity as a **Backend Developer**.
+* 🌱 I am in the process of studying **Python**, **Git**, and **Linux** at **OZ Coding School**.
+* 💬 Ask me about **how I finally figured out my README!**.
 
 ---
 
