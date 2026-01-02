@@ -16,8 +16,7 @@
 ---
 
 ## 📊 My GitHub Stats
-![ysohn06's Stats](https://github-readme-stats.vercel.app/api?username=ysohn06&show_icons=true&theme=dracula&title_color=6A0DAD&icon_color=6A0DAD&text_color=ffffff&bg_color=1a1a1a)
-
+![ysohn06's Stats](https://github-readme-stats.vercel.app/api?username=ysohn06&theme=radical)
 ---
 
 ### 📫 Connect with me
