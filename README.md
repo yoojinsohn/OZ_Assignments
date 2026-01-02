@@ -1,4 +1,4 @@
-# ❕ Hi, I'm Yujin (ysohn06) 👋
+# Hi, I'm Yoojin❕
 
 ### 🧱 Current Focus
 <img src="https://img.shields.io/badge/Python-6A0DAD?style=for-the-badge&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Git-6A0DAD?style=for-the-badge&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-6A0DAD?style=for-the-badge&logo=Linux&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-6A0DAD?style=for-the-badge&logo=HTML5&logoColor=white"/>
