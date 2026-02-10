@@ -31,5 +31,5 @@
 
 ### 📫 Connect with me
 <a href="mailto:itsyoojinsohn@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-ysohn06@gmail.com-6A0DAD?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-itsyoojinsohn@gmail.com-6A0DAD?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
