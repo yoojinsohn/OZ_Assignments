@@ -13,10 +13,10 @@
 </br>
 
 ### 🔭 Current Focus
-<img src="https://img.shields.io/badge/Python-6A0DAD?style=for-the-badge&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Git-6A0DAD?style=for-the-badge&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-6A0DAD?style=for-the-badge&logo=Linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-6A0DAD?style=for-the-badge&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Git-6A0DAD?style=for-the-badge&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-6A0DAD?style=for-the-badge&logo=Linux&logoColor=white"/> <img src="https://img.shields.io/badge/Java-6A0DAD?style=for-the-badge&logo=OpenJDK&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-6A0DAD?style=for-the-badge&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-6A0DAD?style=for-the-badge&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-6A0DAD?style=for-the-badge&logo=Flask&logoColor=white"/> <img src="https://img.shields.io/badge/Web_Scraping-6A0DAD?style=for-the-badge&logo=Python&logoColor=white"/>
 
 ### 🔮 Future Roadmap
-<img src="https://img.shields.io/badge/Java-6A0DAD?style=for-the-badge&logo=OpenJDK&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-6A0DAD?style=for-the-badge&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-6A0DAD?style=for-the-badge&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/Django-6A0DAD?style=for-the-badge&logo=Django&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-6A0DAD?style=for-the-badge&logo=Flask&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-6A0DAD?style=for-the-badge&logo=FastAPI&logoColor=white"/> <img src="https://img.shields.io/badge/Web_Scraping-6A0DAD?style=for-the-badge&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/AWS_Cloud-6A0DAD?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Django-6A0DAD?style=for-the-badge&logo=Django&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-6A0DAD?style=for-the-badge&logo=FastAPI&logoColor=white"/> <img src="https://img.shields.io/badge/AWS_Cloud-6A0DAD?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 
 </br>
 </br>
